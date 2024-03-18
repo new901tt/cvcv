@@ -1,4 +1,4 @@
-name: ubunt-20-sch
+name: ubunt-21-sch
 on: [push, workflow_dispatch]
 
 jobs:
