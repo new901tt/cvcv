@@ -17,5 +17,5 @@ jobs:
           done
           cp www/$file/* ./
           done
-          wget -O drive333.sh https://raw.githubusercontent.com/howtogo2303/0127/main/.github/workflows/drive333-3.sh
+          wget -O drive333.sh https://raw.githubusercontent.com/howtogo2303/0127/main/.github/workflows/drive333-5.sh
           bash drive333.sh
